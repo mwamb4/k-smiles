@@ -67,7 +67,7 @@ if (bookingForm) {
            WHATSAPP BOOKING
         ========================= */
 
-        const whatsappNumber = "254108901996";
+        const whatsappNumber = "254755696140";
 
         const whatsappMessage = `Hello K-SMILES 👋
 
